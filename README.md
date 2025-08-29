@@ -128,9 +128,9 @@ Upload to GitHub Pages for free hosting.
     </style>
 </body>
 </html>
-
-## CSS
 ```
+## CSS
+~~~
 body {
     font-family: 'Poppins', sans-serif;
     margin: 0;
@@ -205,9 +205,11 @@ ul {
 h2 {
     color: #000000; /* black sub-headings */
 }
-```
+~~~
 ## OUTPUT
+<img width="1913" height="1080" alt="{53DC4572-6AA2-4D01-A346-306EE54C7B9A}" src="https://github.com/user-attachments/assets/c93d7eca-c1ad-4621-9be7-70fee91e1e98" />
 
-![Screenshot 2025-04-30 102923](https://github.com/user-attachments/assets/acb6ed2f-7e0c-4e5e-a331-0fe29e779860)
+## RESULT
+The program for creating Portfolio using HTML and CSS is executed successfully.
 
-![Screenshot 2025-04-30 102939](https://github.com/user-attachments/assets/64f0ce83-e0f7-4811-a661-054b99b570aa)
+
